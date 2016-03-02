@@ -4,7 +4,7 @@ galaxy_info:
   description: "Basic settings (system locale, many popular software programs, and more) for Japan"
   company: Japan
   license: "CC BY 4.0"
-  min_ansible_version: 2.0
+  min_ansible_version: 1.5
   platforms:
   - name: EL
     versions: [7]
